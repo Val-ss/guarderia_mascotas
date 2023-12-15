@@ -1,0 +1,19 @@
+
+.imagen-contenedor{
+    max-width: 40%; 
+    max-height: auto;  
+    border-radius: 30px;
+    padding-left: 9px;
+    margin: 10px;
+   
+}
+
+.texto-contenedor{
+    font-size: 130%; 
+    margin: 8px;
+    padding: 2px;
+   
+    
+}
+
+

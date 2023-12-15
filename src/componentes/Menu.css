@@ -1,0 +1,20 @@
+.menu{
+    background-color: rgb(238, 88, 18);
+    color: aliceblue;
+    
+}
+
+.title{
+    font-size: 100%;
+    font-family: 'DM Serif Display', serif;
+}
+
+.enlace{
+    text-decoration: none; 
+    color: inherit;
+   
+}
+
+a:hover {
+    color: rgb(255, 145, 0); 
+  }

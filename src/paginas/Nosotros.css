@@ -1,0 +1,47 @@
+.nosotros-img {
+    border-radius: 30px;
+}
+
+.titulo-nosotros{
+    font-size: 40px;
+    color: rgb(5, 5, 60);  
+}
+.titulo-nosotrosDos{
+    font-size: 40px;
+    color: rgb(5, 5, 60);
+    margin-top: 8px;
+    text-align: center;
+    
+}
+
+.img-nosotros{
+    max-width: 120%;
+    border-radius: 30px;
+   
+}
+
+.btn-custom {
+    background-color: black !important;
+    color: white !important;
+    width: fit-content;
+}
+  
+ 
+.imagen-nosotros{
+    width: 60%;
+    border-radius: 30px;
+    border-width: 5px;
+    float: right;
+   
+   
+}
+
+.texto-descripcion{
+    font-size: 90%;
+    align-items: center;
+}
+
+.subtitulo-nosotros{
+    color: brown;
+   
+}

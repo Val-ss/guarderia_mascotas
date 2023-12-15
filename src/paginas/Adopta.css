@@ -1,0 +1,24 @@
+
+.imgadopta{
+    height: 500px;
+    border-radius: 60px;
+      
+}
+
+.texto{
+    font-size: 10px;
+   
+}
+
+.titulo-adoptar{
+    color: rgb(5, 5, 60);
+    font-size: 60px;
+    margin-top: 40px;
+}
+
+.texto-adopta{
+    font-size: 13px;
+    text-align: center;
+    padding: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
